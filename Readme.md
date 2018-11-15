@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WinTileItemCodeCreating/Form1.cs)
+<!-- default file list end -->
 # How To: Create An Animated Tile Item Via Code
 
 
